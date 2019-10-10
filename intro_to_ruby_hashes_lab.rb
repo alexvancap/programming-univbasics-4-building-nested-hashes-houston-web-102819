@@ -1,5 +1,4 @@
 monopoly =  {
-	onopoly =  {
 	  :railroads=>
 	  {
 	    :pieces=>4,
@@ -31,4 +30,3 @@ monopoly =  {
 	    }
 	  }
 	}
-}

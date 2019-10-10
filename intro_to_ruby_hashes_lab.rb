@@ -1,4 +1,4 @@
-onopoly =  {
+monopoly =  {
   :railroads =>
   {
     :pieces => 4,
@@ -25,7 +25,7 @@ onopoly =  {
       },
       :shortline =>
       {
-        "mortgage_value" => "$800"
+        "mortgage_value" =>"$800"
       }
     }
   }
